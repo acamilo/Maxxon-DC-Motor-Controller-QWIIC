@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name fallhaub-quicc)(type KiCad)(uri ${KIPRJMOD}/fallhaub-quicc.pretty)(options "")(descr ""))
+)
